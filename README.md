@@ -14,3 +14,5 @@ git commit -m 'test-branch2'
 git push
 git status
 ```
+
+Then merge on website.
