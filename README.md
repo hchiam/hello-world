@@ -8,6 +8,7 @@ https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-man
 
 ```
 git checkout -b test-branch2
+git push origin test-branch2
 git add .
 git commit -m 'test-branch2'
 git push
